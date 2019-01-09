@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 15.0.28010.2019
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PolinBas", "PolinBas\PolinBas.csproj", "{683D5C66-9E4E-44A7-A1B4-A6977B98F13A}"
-	ProjectSection(ProjectDependencies) = postProject
-		{044014F5-0F76-4915-9F8C-3CD7DE70862B} = {044014F5-0F76-4915-9F8C-3CD7DE70862B}
-	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{044014F5-0F76-4915-9F8C-3CD7DE70862B}"
 EndProject
